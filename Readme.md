@@ -65,9 +65,3 @@ Performance is evaluated using:
 ## 📌 License
 
 MIT License
-```
-
-Let me know if you'd like:
-- A `requirements.txt` file  
-- A badge-enhanced version  
-- Or the full notebook converted to a script (`.py`) or markdown!
