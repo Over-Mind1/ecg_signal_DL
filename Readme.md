@@ -24,7 +24,7 @@ Each signal is assigned a binary label:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ecg-model.git
+   git clone https://github.com/Over-Mind1/ecg_signal_DL.git
    cd ecg-model
    ```
 
