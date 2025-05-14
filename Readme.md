@@ -1,6 +1,4 @@
-Sure! Here's **everything as code**, including the full `README.md` content you can directly paste into a `README.md` file:
 
-```markdown
 # 📊 ECG Signal Classification using 1D CNN
 
 This project uses a 1D Convolutional Neural Network (CNN) to classify ECG (Electrocardiogram) signals into **normal** and **abnormal** categories. It's designed to assist with early detection of cardiac anomalies using deep learning techniques.
